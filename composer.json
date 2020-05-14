@@ -1,0 +1,22 @@
+{
+    "name": "solwin/ultimateportfolio",
+    "description": "Ultimate Portfolio Magento 2 extension helps you to showcase your services, and work on your store easily. Grab the users attention with this extension and let your work speak for you.",
+    "type": "magento2-module",
+    "version": "2.0.4",
+    "authors": [
+        {
+            "name": "Solwin",
+            "email": "stdabhoya@yahoo.com",
+            "homepage": "https://www.solwininfotech.com/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Solwin\\UltimatePortfolio\\": ""
+        }
+    }
+}
